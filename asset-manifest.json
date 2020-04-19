@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/formhook/static/js/main.fc8f8ed6.chunk.js",
+    "main.js.map": "/formhook/static/js/main.fc8f8ed6.chunk.js.map",
+    "runtime-main.js": "/formhook/static/js/runtime-main.55ebe8fd.js",
+    "runtime-main.js.map": "/formhook/static/js/runtime-main.55ebe8fd.js.map",
+    "static/js/2.09f5dee4.chunk.js": "/formhook/static/js/2.09f5dee4.chunk.js",
+    "static/js/2.09f5dee4.chunk.js.map": "/formhook/static/js/2.09f5dee4.chunk.js.map",
+    "index.html": "/formhook/index.html",
+    "precache-manifest.7334f16ba42521117034705c9118b256.js": "/formhook/precache-manifest.7334f16ba42521117034705c9118b256.js",
+    "service-worker.js": "/formhook/service-worker.js",
+    "static/js/2.09f5dee4.chunk.js.LICENSE.txt": "/formhook/static/js/2.09f5dee4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55ebe8fd.js",
+    "static/js/2.09f5dee4.chunk.js",
+    "static/js/main.fc8f8ed6.chunk.js"
+  ]
+}
